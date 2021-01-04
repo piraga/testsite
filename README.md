@@ -2,6 +2,7 @@
 Deployment steps:
 1. ng build --prod --base-href "https://piraga.github.io/testsite/"
 2. ngh --dir dist/testsite
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
 ## Development server
